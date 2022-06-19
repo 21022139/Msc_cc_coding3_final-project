@@ -14,4 +14,6 @@ I changed the celebrity dataset to a pokemon dataset downloaded from Kaggle to c
 
 In addition to Nathan Inkawhich's tutorial, I also referred to other codes.
 
+Vedio processes: https://youtu.be/WaioGSQoH-o
+
 referrence link: https://github.com/pytorch/tutorials/blob/master/beginner_source/dcgan_faces_tutorial.py https://github.com/soumith/ganhacks
