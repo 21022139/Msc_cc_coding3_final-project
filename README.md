@@ -1,5 +1,6 @@
 # Msc_cc_coding3_final-project
 ### NEW SPECIES OF POKEMON
+Github link: https://github.com/21022139/Msc_cc_coding3_final-project
 
 The DCGAN implementation is from the DCGAN Tutorial by Nathan Inkawhich.
 
